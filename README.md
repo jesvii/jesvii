@@ -18,15 +18,14 @@
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
   ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=nosql&logoColor=white)
 
+
 ## 📚 Proyectos destacados:
 Aquí te dejo algunos de los proyectos en los que he trabajado:
 
-- **[IA Project](https://github.com/jesvii/ia-proyect)**: Proyecto relacionado con la inteligencia artificial donde implementé varios algoritmos de aprendizaje automático.
-- **[ISSI 2 Ejemplo](https://github.com/jesvii/issi2ejemplo)**: Ejemplo de implementación de sistemas de información en el contexto del curso de ISSI.
-- **[Proyecto de Curso - Java](https://github.com/jesvii/java)**: Proyecto final de curso en **Java**.
-- **[Proyecto Java](https://github.com/jesvii/javaproyecto)**: Un proyecto de **Java** donde desarrollé una aplicación de escritorio.
-- **[ISSI LAB](https://github.com/jesvii/ISSI-LAB)**: Laboratorio práctico de la asignatura de **ISSI**.
-- **[Proyecto Python](https://github.com/jesvii/proyecto-python-jesvii)**: Proyecto realizado en **Python** relacionado con simulaciones de sistemas.
+- **[Proyecto IA](https://github.com/jesvii/ia-proyect)**: Proyecto relacionado con la **Inteligencia Artificial** en el que implementé varios algoritmos de aprendizaje automático y análisis de datos.
+- **[Proyecto DP2 - Framework](https://github.com/jesvii/dp2-framework-project)**: Implementación de un proyecto dentro de un **framework otorgado por los profesores** en la asignatura **Diseños y Pruebas 2**. En este proyecto, se desarrolló una página web .
+- **[Proyecto DP1 - UpStream](https://github.com/jesvii/upstrema)**: Implementación del **juego UpStream**, un juego interactivo donde trabajamos en equipo para integrar la lógica del juego, la base de datos y la interfaz de usuario. Fue desarrollado en el marco de la asignatura **Diseño de Programas 1**.
+
 
 ## 📬 Contacto:
 - 📧 **Email**: [jvilfer1712@gmail.com](mailto:jvilfer1712@gmail.com)

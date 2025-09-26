@@ -24,7 +24,7 @@ Aquí te dejo algunos de los proyectos en los que he trabajado:
 
 - **[Proyecto IA](https://github.com/jesvii/ia-proyect)**: Proyecto relacionado con la **Inteligencia Artificial** en el que implementé varios algoritmos de aprendizaje automático y análisis de datos.
 - **[Proyecto DP2 - Framework](https://github.com/jesvii/DP2proyect)**: Implementación de un sistema de **reservas de vuelos para una aerolínea** dentro de un **framework otorgado por los profesores** en la asignatura **Diseños y Pruebas 2**.
-- **[Proyecto DP1 - UpStream](https://github.com/gii-is-DP1/DP1-2024-2025--l4-4)**: Implementación del **juego UpStream**, un juego interactivo donde trabajamos en equipo para integrar la lógica del juego, la base de datos y la interfaz de usuario. Fue desarrollado en el marco de la asignatura **Diseño y Pruebas 1**.
+- **[Proyecto DP1 - UpStream](https://github.com/jesvii/DP1project)**: Implementación del **juego UpStream**, un juego interactivo donde trabajamos en equipo para integrar la lógica del juego, la base de datos y la interfaz de usuario. Fue desarrollado en el marco de la asignatura **Diseño y Pruebas 1**.
 - **[PetClinic - PSG2](https://github.com/gii-is-psg2/psg2-2425-g4-43)**: Proyecto realizado en la asignatura **PSG2**, donde se implementó una aplicación de gestión de clínica veterinaria utilizando el framework **Spring Boot**. Este proyecto es un ejemplo clásico de aplicación para gestionar mascotas, dueños y visitas veterinarias.
 
 

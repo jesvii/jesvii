@@ -1,39 +1,37 @@
-# Hola, soy Jesús Villalba 👋
+# Hello, I’m Jesús Villalba 👋
 
-👨‍💻 Soy estudiante de cuarto año de **Ingeniería Informática de Software**. Me apasiona aprender nuevas tecnologías y trabajar en proyectos interesantes.
+👨‍💻 I am a **fourth-year Software Engineering student**. I’m passionate about learning new technologies and working on interesting projects.
 
-## 🧑‍💻 Mis habilidades:
-- **Lenguajes de programación**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **Frameworks**: 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-- **Herramientas**: 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- **Bases de datos**: 
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-  ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=nosql&logoColor=white)
+## 🧑‍💻 My skills:
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- **Frameworks**:  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- **Databases**:  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+  ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=nosql&logoColor=white)  
 
+## 📚 Featured Projects:
+Here are some of the projects I’ve worked on:
 
-## 📚 Proyectos destacados:
-Aquí te dejo algunos de los proyectos en los que he trabajado:
+- **[AI Project](https://github.com/jesvii/ia-proyect)**: A project related to **Artificial Intelligence**, where I implemented various machine learning algorithms and data analysis techniques.  
 
-- **[Proyecto IA](https://github.com/jesvii/ia-proyect)**: Proyecto relacionado con la **Inteligencia Artificial** en el que implementé varios algoritmos de aprendizaje automático y análisis de datos.  
+- **[DP2 - Framework Project](https://github.com/jesvii/DP2proyect)**: Implementation of a **flight reservation system for an airline** within a **framework provided by professors** in the **Design and Testing 2** course.  
 
-- **[Proyecto DP2 - Framework](https://github.com/jesvii/DP2proyect)**: Implementación de un sistema de **reservas de vuelos para una aerolínea** dentro de un **framework otorgado por los profesores** en la asignatura **Diseños y Pruebas 2**.  
+- **[DP1 - UpStream Project](https://github.com/jesvii/DP1project)**: Development of the **UpStream game**, an interactive game where we worked as a team to integrate game logic, the database, and the user interface. This project was developed as part of the **Design and Testing 1** course.  
 
-- **[Proyecto DP1 - UpStream](https://github.com/jesvii/DP1project)**: Implementación del **juego UpStream**, un juego interactivo donde trabajamos en equipo para integrar la lógica del juego, la base de datos y la interfaz de usuario. Fue desarrollado en el marco de la asignatura **Diseño y Pruebas 1**.  
+- **[PetClinic - PSG2](https://github.com/gii-is-psg2/psg2-2425-g4-43)**: A project developed in the **PSG2 course**, where I implemented a **veterinary clinic management application** using the **Spring Boot** framework. This is a classic example of an app to manage pets, owners, and veterinary visits.  
 
-- **[PetClinic - PSG2](https://github.com/gii-is-psg2/psg2-2425-g4-43)**: Proyecto realizado en la asignatura **PSG2**, donde se implementó una aplicación de gestión de clínica veterinaria utilizando el framework **Spring Boot**. Este proyecto es un ejemplo clásico de aplicación para gestionar mascotas, dueños y visitas veterinarias.  
+- **[IR Project - elDiez](https://github.com/jesvii/IRproyect)**: A project developed in the **Requirements Engineering (IR)** course in collaboration with the sports store **elDiez**. The work involved **gathering and modeling requirements**, along with the design and simulation of an electronic system prototype in **Proteus** to meet real business needs.  
 
-- **[Proyecto IR - elDiez](https://github.com/jesvii/IRproyect)**: Proyecto desarrollado en la asignatura **Ingeniería de Requisitos (IR)** en colaboración con la tienda de deportes **elDiez**. El trabajo consistió en la **recogida y modelado de requisitos**, junto con el diseño y simulación de un sistema electrónico en **Proteus** como prototipo para cubrir necesidades reales de la empresa.  
-
-
-## 📬 Contacto:
-- 📧 **Email**: [jvilfer1712@gmail.com](mailto:jvilfer1712@gmail.com)
-- 🔗 **LinkedIn**: [Jesús Villalba](https://www.linkedin.com/in/jesus-villalba-8a922b319/)
+## 📬 Contact:
+- 📧 **Email**: [jvilfer1712@gmail.com](mailto:jvilfer1712@gmail.com)  
+- 🔗 **LinkedIn**: [Jesús Villalba](https://www.linkedin.com/in/jesus-villalba-8a922b319/)  
 - 🔗 **GitHub**: [jesvii](https://github.com/jesvii)

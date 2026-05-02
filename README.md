@@ -33,5 +33,5 @@ Here are some of the projects I’ve worked on:
 
 ## 📬 Contact:
 - 📧 **Email**: [jvilfer1712@gmail.com](mailto:jvilfer1712@gmail.com)  
-- 🔗 **LinkedIn**: [Jesús Villalba](https://www.linkedin.com/in/jesus-villalba-8a922b319/)  
+- 🔗 **LinkedIn**: [Jesús Villalba](https://www.linkedin.com/in/jes%C3%BAs-villalba-8a922b319/)  
 - 🔗 **GitHub**: [jesvii](https://github.com/jesvii)

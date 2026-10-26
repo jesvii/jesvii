@@ -3,7 +3,7 @@
 👨‍💻 I am a **Software Engineer** graduated in **Computer Engineering – Software Engineering** from the **University of Seville**, currently pursuing a **Master’s in Software Engineering: Cloud, Data & IT Management**. I work as a **Cybersecurity Analyst at Telefónica Tech**, and I’m passionate about backend development, secure systems and **Generative AI (LLMs & RAG)**.
 
 ## 💼 Experience:
-- **Telefónica Tech** – *Cybersecurity Analyst (Global CERT)*: Threat triage, **phishing analysis** and **incident investigation** for enterprise banking infrastructure, correlating IoCs with **Google Chronicle**, **Microsoft Sentinel**, **SentinelOne**, **Akamai** and **CyberChef**.
+- **Telefónica Tech** – *Cybersecurity Analyst (Global CERT)*: Threat triage, **phishing analysis** and **incident investigation** for enterprise banking infrastructure, using **Google Chronicle**, **SentinelOne (EDR/XDR)**, **Trellix**, **Akamai**, **Zimperium**, **Google Admin**, **Netcraft** and **CyberChef**.
 
 ## 🧑‍💻 My skills:
 - **Programming Languages**: 
@@ -24,9 +24,13 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - **Cybersecurity**: 
   ![Google Chronicle](https://img.shields.io/badge/Google%20Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
-  ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge) 
   ![SentinelOne](https://img.shields.io/badge/SentinelOne-6B2BD9?style=for-the-badge) 
-  ![Akamai](https://img.shields.io/badge/Akamai%20WAF-0096D6?style=for-the-badge&logo=akamai&logoColor=white)
+  ![Trellix](https://img.shields.io/badge/Trellix-E1251B?style=for-the-badge) 
+  ![Akamai](https://img.shields.io/badge/Akamai%20WAF-0096D6?style=for-the-badge&logo=akamai&logoColor=white) 
+  ![Zimperium](https://img.shields.io/badge/Zimperium-1A1A2E?style=for-the-badge) 
+  ![Google Admin](https://img.shields.io/badge/Google%20Admin-34A853?style=for-the-badge&logo=google&logoColor=white) 
+  ![Netcraft](https://img.shields.io/badge/Netcraft-003B5C?style=for-the-badge) 
+  ![CyberChef](https://img.shields.io/badge/CyberChef-2E7D32?style=for-the-badge)
 - **Databases**: 
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
